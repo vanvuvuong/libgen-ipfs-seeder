@@ -62,5 +62,5 @@ If you pin books in address, for example: `bafykbzaceaeofefgje22l7rhgtcgs22m32f4
 
 ## References:
 
-- #### [Free Read](!https://freeread.org/ipfs.html)
-- #### [Awesome Genesis Library Repository](!https://github.com/freereadorg/awesome-libgen)
+- #### [Free Read](https://freeread.org/ipfs.html)
+- #### [Awesome Genesis Library Repository](https://github.com/freereadorg/awesome-libgen)
