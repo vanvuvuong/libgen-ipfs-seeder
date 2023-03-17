@@ -4,7 +4,7 @@ Here are the IPFS UI address for the Libgen:
 
 - https://libgen.crypto/
 - https://ipfs.io/ipns/libgen.crypto/
-  If you can't go to that address, please refer to [here](index.html) (open with a browser) to see the detail guide.
+  If you can't go to that address, please refer to [here](Guide.md) (open with a browser) to see the detail guide.
 
 # I.Requirements
 
@@ -64,4 +64,3 @@ If you pin books in address, for example: `bafykbzaceaeofefgje22l7rhgtcgs22m32f4
 
 - #### [Free Read](!https://freeread.org/ipfs.html)
 - #### [Awesome Genesis Library Repository](!https://github.com/freereadorg/awesome-libgen)
--
